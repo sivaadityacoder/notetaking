@@ -1,0 +1,5 @@
+# LinPEAS
+
+```bash
+./linpeas.sh
+```
